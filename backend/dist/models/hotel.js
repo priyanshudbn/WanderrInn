@@ -15,6 +15,8 @@ const bookingSchema = new mongoose_1.default.Schema({
     userId: { type: String, required: true },
     totalCost: { type: Number, required: true },
 });
+
+trwdu
 const hotelSchema = new mongoose_1.default.Schema({
     userId: { type: String, required: true },
     name: { type: String, required: true },
